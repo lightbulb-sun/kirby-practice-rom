@@ -1,0 +1,13 @@
+*~
+*.swp
+*.swo
+*.o
+*.gb
+*.sav
+*.bsdiff
+*.s[0-9]
+*.sn[0-9]
+*.sym
+*.2bpp
+build
+bsdiff
